@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\bin\Debug\DecisionStructures.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DecisionStructures\DecisionStructures\obj\Debug\DecisionStructures.pdb
