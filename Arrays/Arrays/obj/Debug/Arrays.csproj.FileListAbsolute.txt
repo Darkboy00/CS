@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Arrays\Arrays\obj\Debug\Arrays.pdb
