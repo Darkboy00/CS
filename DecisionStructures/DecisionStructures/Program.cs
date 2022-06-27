@@ -95,16 +95,41 @@ namespace DecisionStructures
             //}
             //Console.Read();
 
-            char character;
-            Console.Write("Enter character:");
-            character = Convert.ToChar(Console.ReadLine());
-            if(character != 'a')
+            //char character;
+            //Console.Write("Enter character:");
+            //character = Convert.ToChar(Console.ReadLine());
+            //if(character != 'a')
+            //{
+            //    Console.Write("Not the letter a");
+            //}
+            //else
+            //{
+            //    Console.Write("The letter a");
+            //}
+            //Console.Read();
+
+            //byte plate;
+            //Console.Write("Enter the plate: ");
+            //plate = byte.Parse(Console.ReadLine());
+            //switch (plate)
+            //{
+            //    case 1:Console.Write("Hello Adana"); break;
+            //    case 2: Console.Write("Hello Adiyaman"); break;
+            //    case 3: Console.Write("Hello Afyon"); break;
+            //    default:Console.Write("This city does not have information"); break;
+            //}
+            //Console.Read();
+
+            string season;
+            Console.Write("Enter the season: ");
+            season = Console.ReadLine();
+            switch (season)
             {
-                Console.Write("Not the letter a");
-            }
-            else
-            {
-                Console.Write("The letter a");
+                case "summer": Console.WriteLine("June - July - August"); break;
+                case "spring": Console.WriteLine("March - April - May"); break;
+                case "autumn": Console.WriteLine("September - October - November"); break;
+                case "winter": Console.WriteLine("December - January - February"); break;
+                default: Console.WriteLine("Wrong season"); break;
             }
             Console.Read();
         }
