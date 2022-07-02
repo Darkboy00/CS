@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
