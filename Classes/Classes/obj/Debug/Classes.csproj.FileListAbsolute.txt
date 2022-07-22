@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Classes\Classes\obj\Debug\Classes.pdb
