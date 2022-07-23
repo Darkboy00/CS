@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\RandomClass\RandomClass\obj\Debug\RandomClass.pdb
