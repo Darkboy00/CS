@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\obj\Debug\Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\Functions\Functions\obj\Debug\Functions.pdb
