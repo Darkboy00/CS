@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\bin\Debug\File.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\bin\Debug\File.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\bin\Debug\File.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\obj\Debug\File.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\obj\Debug\File.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\File\File\obj\Debug\File.pdb
