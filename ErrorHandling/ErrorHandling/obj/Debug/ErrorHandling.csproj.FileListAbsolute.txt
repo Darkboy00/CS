@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
