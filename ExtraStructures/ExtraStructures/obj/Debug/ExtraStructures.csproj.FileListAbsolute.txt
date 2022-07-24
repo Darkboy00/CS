@@ -1,0 +1,8 @@
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\bin\Debug\ExtraStructures.exe.config
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\bin\Debug\ExtraStructures.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\bin\Debug\ExtraStructures.pdb
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\obj\Debug\ExtraStructures.csproj.AssemblyReference.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\obj\Debug\ExtraStructures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\obj\Debug\ExtraStructures.csproj.CoreCompileInputs.cache
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\obj\Debug\ExtraStructures.exe
+C:\Users\Mehme\OneDrive\Documents\GitHub\CS\ExtraStructures\ExtraStructures\obj\Debug\ExtraStructures.pdb
